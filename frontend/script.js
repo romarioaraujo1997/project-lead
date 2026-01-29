@@ -1,5 +1,5 @@
 // Altere para a URL do seu backend após o deploy
-const API_URL = 'http://localhost:5000/api/leads'; 
+const API_URL = 'https://project-lead-api.onrender.com/api/leads'; 
 
 const form = document.getElementById('leadForm');
 const statusDiv = document.getElementById('formStatus');
